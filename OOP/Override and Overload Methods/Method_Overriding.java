@@ -27,7 +27,7 @@ class ME extends College {
 }
 
 // MAIN Method Class
-public class Override_Method {
+public class Method_Overriding {
   public static void main(String[] args) {
     // Reference of Parent class
     College c;
