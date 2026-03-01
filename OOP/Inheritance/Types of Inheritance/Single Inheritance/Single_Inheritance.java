@@ -20,6 +20,6 @@ public class Single_Inheritance {
         Dog obj = new Dog();
         
         obj.bark();  // Subclass method (Specific to Dog)
-        obj.eat();   // Inherited method (From Animal)
+        obj.eat();   // Inherited method (From Animal Class)
     }
 }
