@@ -1,4 +1,4 @@
-// -- Arrays Helper: toString and Equals -- //
+// -- Arrays Helper: toString() and Equals() -- //
 
 import java.util.Arrays;
 
