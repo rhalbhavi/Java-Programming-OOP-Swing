@@ -24,7 +24,7 @@ Java's scalability and security make it a cornerstone of modern software enginee
 
 I have organized the repository to follow a logical learning path, moving from basic syntax to complex system design:
 
-### 🛠️ Foundations
+### 🛠️ Core Foundations
 * [Variables](https://github.com/3riy/Java/blob/main/Variables.java)
 * [Type Casting](https://github.com/3riy/Java/blob/main/Type_Casting.java)
 * [Conditional Statements](https://github.com/3riy/Java/tree/main/Conditional%20Statements)
@@ -46,6 +46,8 @@ I have organized the repository to follow a logical learning path, moving from b
 * [Access Modifiers](https://github.com/3riy/Java/blob/main/Access_Modifiers.java)
 * [Wrapper Classes](https://github.com/3riy/Java/blob/main/Wrapper_Class.java)
 * [Auto-Boxing and Auto-Unboxing](https://github.com/3riy/Java/blob/main/Auto_Boxing_and_Auto_Unboxing.java)
+
+### General Examples
 * [General Examples](https://github.com/3riy/Java/tree/main/Examples)
 
 ---
