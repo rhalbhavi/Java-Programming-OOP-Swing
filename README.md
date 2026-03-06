@@ -25,30 +25,30 @@ Java's scalability and security make it a cornerstone of modern software enginee
 I have organized the repository to follow a logical learning path, moving from basic syntax to complex system design:
 
 ### 🛠️ Core Foundations
-* [Variables](https://github.com/3riy/Java/blob/main/Variables.java)
-* [Type Casting](https://github.com/3riy/Java/blob/main/Type_Casting.java)
-* [Conditional Statements](https://github.com/3riy/Java/tree/main/Conditional%20Statements)
-* [Looping Statements](https://github.com/3riy/Java/tree/main/Looping%20Statements)
-* [Arrays](https://github.com/3riy/Java/tree/main/Arrays)
-* [Strings](https://github.com/3riy/Java/tree/main/Strings)
-* [Methods](https://github.com/3riy/Java/tree/main/Methods)
+* [Variables](https://github.com/3riy/Java-Basics/blob/main/Variables.java)
+* [Type Casting](https://github.com/3riy/Java-Basics/blob/main/Type_Casting.java)
+* [Conditional Statements](https://github.com/3riy/Java-Basics/tree/main/Conditional%20Statements)
+* [Looping Statements](https://github.com/3riy/Java-Basics/tree/main/Looping%20Statements)
+* [Arrays](https://github.com/3riy/Java-Basics/tree/main/Arrays)
+* [Strings](https://github.com/3riy/Java-Basics/tree/main/Strings)
+* [Methods](https://github.com/3riy/Java-Basics/tree/main/Methods)
 
 ### 🏛️ Object-Oriented Programming (OOP)
-* [Classes & Objects](https://github.com/3riy/Java/tree/main/OOP/Classes)
-* [Constructors](https://github.com/3riy/Java/tree/main/OOP/Constructors)
-* [Inheritance](https://github.com/3riy/Java/tree/main/OOP/Inheritance)
-* [Interfaces](https://github.com/3riy/Java/tree/main/OOP/Interfaces)
-* [Polymorphism](https://github.com/3riy/Java/tree/main/OOP/Polymorphism)
-* [Exception Handling](https://github.com/3riy/Java/tree/main/OOP/Exception%20Handling)
-* [Threads and Runnable](https://github.com/3riy/Java/tree/main/OOP/Threads)
+* [Classes & Objects](https://github.com/3riy/Java-Basics/tree/main/OOP/Classes)
+* [Constructors](https://github.com/3riy/Java-Basics/tree/main/OOP/Constructors)
+* [Inheritance](https://github.com/3riy/Java-Basics/tree/main/OOP/Inheritance)
+* [Interfaces](https://github.com/3riy/Java-Basics/tree/main/OOP/Interfaces)
+* [Polymorphism](https://github.com/3riy/Java-Basics/tree/main/OOP/Polymorphism)
+* [Exception Handling](https://github.com/3riy/Java-Basics/tree/main/OOP/Exception%20Handling)
+* [Threads and Runnable](https://github.com/3riy/Java-Basics/tree/main/OOP/Threads)
 
 ### ⚙️ Java Utilities & Advanced
-* [Access Modifiers](https://github.com/3riy/Java/blob/main/Access_Modifiers.java)
-* [Wrapper Classes](https://github.com/3riy/Java/blob/main/Wrapper_Class.java)
-* [Auto-Boxing and Auto-Unboxing](https://github.com/3riy/Java/blob/main/Auto_Boxing_and_Auto_Unboxing.java)
+* [Access Modifiers](https://github.com/3riy/Java-Basics/blob/main/Access_Modifiers.java)
+* [Wrapper Classes](https://github.com/3riy/Java-Basics/blob/main/Wrapper_Class.java)
+* [Auto-Boxing and Auto-Unboxing](https://github.com/3riy/Java-Basics/blob/main/Auto_Boxing_and_Auto_Unboxing.java)
 
 ### General Examples
-* [General Examples](https://github.com/3riy/Java/tree/main/Examples)
+* [General Examples](https://github.com/3riy/Java-Basics/tree/main/Examples)
 
 ---
 
