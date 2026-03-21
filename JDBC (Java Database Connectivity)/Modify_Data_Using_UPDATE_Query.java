@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.Statement;
 
-public class Update_Data_Using_UPDATE_Query {
+public class Modify_Data_Using_UPDATE_Query {
     public static void main(String[] args) {
         try {
             Connection con = DriverManager.getConnection(
