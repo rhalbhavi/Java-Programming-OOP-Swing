@@ -11,6 +11,7 @@ public class Display_Data_Using_SELECT_Query {
             Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/q2", "root", "your_password");
 
             Statement stmt = con.createStatement();
+            
             // SELECT query to display records/data in the table
             ResultSet rs = stmt.executeQuery("SELECT * FROM employee");
 
