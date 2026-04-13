@@ -3,9 +3,9 @@
 import javax.swing.*; 
 import java.awt.event.*; 
 
-public class Mouse_DoubleClick_Event_Handling extends JFrame implements MouseListener { 
+public class Mouse_Double_Click extends JFrame implements MouseListener { 
     JLabel label; 
-    public Mouse_DoubleClick_Event_Handling() { 
+    public Mouse_Double_Click() { 
         label = new JLabel("Double click anywhere", JLabel.CENTER); 
         add(label); 
         addMouseListener(this); 
@@ -27,6 +27,6 @@ public class Mouse_DoubleClick_Event_Handling extends JFrame implements MouseLis
     public void mouseExited(MouseEvent e) {}
     
     public static void main(String[] args) {
-        new Mouse_DoubleClick_Event_Handling(); 
+        new Mouse_Double_Click(); 
     } 
 } 
