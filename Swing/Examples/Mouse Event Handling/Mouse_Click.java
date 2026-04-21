@@ -8,7 +8,7 @@ public class Mouse_Click {
         JFrame frame = new JFrame("Mouse Click Event Handling"); 
         JLabel label = new JLabel("Click anywhere"); 
         label.setBounds(100, 100, 200, 30); 
-        frame.add(l); 
+        frame.add(label); 
         frame.addMouseListener(new MouseAdapter() { 
             public void mouseClicked(MouseEvent e) { 
                 label.setText("Clicked at: " + e.getX() + "," + e.getY()); 
